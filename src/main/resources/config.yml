@@ -1,0 +1,4 @@
+spin-on-join: true
+max-lives: 5
+revive-item-enabled: true
+cooldown-indicator: BOSSBAR   # Options: BOSSBAR, ACTIONBAR
