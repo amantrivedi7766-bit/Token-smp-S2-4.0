@@ -1,4 +1,3 @@
-// TokenType.java
 package com.tokensmp.token;
 
 public enum TokenType {
