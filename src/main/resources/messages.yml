@@ -1,0 +1,8 @@
+prefix: "&8[&6TokenSMP&8] &r"
+spin-won: "&aYou won the %token% token!"
+life-lost: "&cYou lost a life! Remaining: %lives%"
+banned-no-lives: "&cYou have been permanently banned due to 5 deaths."
+revive-success: "&aYou have been revived!"
+already-has-token: "&cYou already have that token!"
+no-permission: "&cYou don't have permission to use this."
+admin-only: "&cThis command is admin-only."
