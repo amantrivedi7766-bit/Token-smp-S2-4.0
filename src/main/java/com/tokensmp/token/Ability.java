@@ -19,5 +19,9 @@ public class Ability {
     public String getName() { return name; }
     public String getDescription() { return description; }
     public int getCooldownSeconds() { return cooldownSeconds; }
-    public void execute(Player player) { action.accept(player); }
+    public Consumer<Player> getAction() { return action; }
+
+    public void execute(Player player) {
+        action.accept(player);
+    }
 }
